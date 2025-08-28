@@ -97,6 +97,5 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## This script is continued by 
 
-| [![KhyzProject](https://github.com/kinara-json.png?size=100)](https://github.com/kinara-json) |
-| --- | --- | --- | --- |
+| [![KhyzProject](https://github.com/kinara-json.png?size=100)](https://github.com/kinara-json) | | --- | --- | --- | --- |
 | [KhyzProject](https://github.com/kinara-json) |
