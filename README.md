@@ -17,7 +17,7 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 - [NazeDev](https://github.com/nazedev) (Pembuat)
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
 - [Dani](https://github.com/nazedev) (Penyumbang Code)
-- [KhyzProject](https://github.com/kinara-json)(penerus script sekaligus yang mengembangkan kembali)
+- [KhyzProject](https://github.com/kinara-json)(Penerus Script)
 
 #### Join Group
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K1pBHhXygoNFDDMSq5l1Dv)
@@ -42,8 +42,8 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/kinara-json/RizzBot
+cd RizzBot
 npm install
 npm update
 ```
@@ -55,8 +55,8 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/kinara-json/RizzBot
+cd RizzBot
 npm install
 ```
 
