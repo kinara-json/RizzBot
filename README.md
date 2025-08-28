@@ -88,7 +88,7 @@ node .
 License: [MIT](https://choosealicense.com/licenses/mit/)
 
 #### Support Me
-- [Saweria](https://saweria.co/naze)
+- [Dana](https://link.dana.id/minta?full_url=https://qr.dana.id/v1/281012012025022256326343
 
 ## Thanks to
 
@@ -98,5 +98,4 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## This script is continued by 
 
-| [![KhyzProject](https://github.com/kinara-json.png?size=100)](https://github.com/kinara-json) | | --- | --- | --- | --- |
-| [KhyzProject](https://github.com/kinara-json) |
+| [![KhyzProject](https://github.com/kinara-json.png?size=100)](https://github.com/kinara-json) | | --- | --- | --- | --- | | [KhyzProject](https://github.com/kinara-json) |
