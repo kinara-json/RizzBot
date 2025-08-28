@@ -5279,6 +5279,7 @@ break;
 │${setv} ${prefix}neko
 ╰─┬────❍
 ╭─┴❍「 *GAME* 」❍
+│${setv} ${prefix}rpg 🎮
 │${setv} ${prefix}tictactoe
 │${setv} ${prefix}akinator
 │${setv} ${prefix}suit
@@ -5632,9 +5633,45 @@ break
 ╰──────❍`)
 			}
 			break
+			case 'rpgmenu': {
+				m.reply(`🎮 *RPG GAME MENU*
+
+📋 *PLAYER COMMANDS*
+▪️ ${prefix}rpg register - Daftar sebagai player baru
+▪️ ${prefix}rpg stats - Lihat stats player
+▪️ ${prefix}rpg heal - Pulihkan HP (20 gold)
+
+⚔️ *BATTLE COMMANDS*
+▪️ ${prefix}rpg monsters - Lihat daftar monster
+▪️ ${prefix}rpg battle [monster] - Mulai battle
+▪️ ${prefix}rpg attack - Serang monster
+▪️ ${prefix}rpg flee - Kabur dari battle
+▪️ ${prefix}rpg status - Status battle aktif
+
+🛒 *SHOP & ITEMS*
+▪️ ${prefix}rpg shop - Lihat shop
+▪️ ${prefix}rpg buy [item] - Beli item
+▪️ ${prefix}rpg boosts - Lihat boost aktif
+
+📊 *INFO COMMANDS*
+▪️ ${prefix}rpg leaderboard - Top player
+▪️ ${prefix}rpg history - Riwayat battle
+▪️ ${prefix}rpg help - Command help
+
+🎯 *CARA MAIN:*
+1. ${prefix}rpg register - Daftar dulu
+2. ${prefix}rpg monsters - Lihat monster
+3. ${prefix}rpg battle goblin - Mulai battle
+4. ${prefix}rpg attack - Serang terus!
+5. ${prefix}rpg shop - Beli upgrade
+
+💡 *TIPS:* Mulai dari Goblin, kumpulkan gold, beli upgrade!`)
+			}
+			break
 			case 'gamemenu': {
 				m.reply(`
 ╭──❍「 *GAME* 」❍
+│${setv} ${prefix}rpg 🎮
 │${setv} ${prefix}tictactoe
 │${setv} ${prefix}akinator
 │${setv} ${prefix}suit
