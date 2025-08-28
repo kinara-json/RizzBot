@@ -817,6 +817,14 @@ try {
 		
 		switch(fileSha256 || command) {
 			// Tempat Add Case
+			case 'rpg': {
+				const rpgGame = require('./src/rpg/index');
+				const username = await naze.getName(m.sender);
+				const result = await rpgGame.handleCommand(m.sender, args, username);
+				await m.reply(result);
+			}
+			break;
+			
 			case 'quotesislami': {
   const quotes = [
     'إِنَّ مَعَ الْعُسْرِ يُسْرًا\n“Sesungguhnya bersama kesulitan ada kemudahan.” (QS. Al-Insyirah: 6)',
