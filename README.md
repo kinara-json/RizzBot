@@ -17,9 +17,10 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 - [NazeDev](https://github.com/nazedev) (Pembuat)
 - [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
 - [Dani](https://github.com/nazedev) (Penyumbang Code)
+- [KhyzProject](https://github.com/kinara-json)(penerus script sekaligus yang mengembangkan kembali)
 
 #### Join Group
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R) 
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://chat.whatsapp.com/K1pBHhXygoNFDDMSq5l1Dv])
 
 ---
 #### Deploy to Heroku
