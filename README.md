@@ -96,4 +96,6 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 | [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
 
 ## This script is continued by 
-| [KhyzProject](https://github.com/kinara-json) |di 
+| [![KhyzProject](https://github.com/kinara-json.png?size=100)](https://github.com/kinara-json) |
+| --- | --- | --- | --- |
+| [KhyzProject](https://github.com/kinara-json) |
