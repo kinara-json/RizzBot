@@ -88,14 +88,10 @@ node .
 License: [MIT](https://choosealicense.com/licenses/mit/)
 
 #### Support Me
-- [Dana](https://link.dana.id/minta?full_url=https://qr.dana.id/v1/281012012025022256326343
+- [Dana](https://link.dana.id/minta?full_url=https://qr.dana.id/v1/281012012025022256326343)
 
 ## Thanks to
 
 | [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
 | --- | --- | --- | --- |
 | [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
-
-## This script is continued by 
-
-| [![KhyzProject](https://github.com/kinara-json.png?size=100)](https://github.com/kinara-json) | | --- | --- | --- | --- | | [KhyzProject](https://github.com/kinara-json) |
