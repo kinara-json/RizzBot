@@ -1,0 +1,3 @@
+{
+  "ignore": ["khyzdev", "node_modules", "database", "logs"]
+}
