@@ -22,6 +22,10 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 #### Join Group
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K1pBHhXygoNFDDMSq5l1Dv)
 
+### Join Ch
+[![Ch WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
+(https://whatsapp.com/channel/0029Vb5sKCeInlqQbjzsFT0g)
+
 ---
 #### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nazedev/hitori)
